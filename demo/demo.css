@@ -1,0 +1,31 @@
+.demo-controls {
+  background: rgba(0,0,0,0.7);
+  border-radius: 5px 5px 0 0;
+  bottom: 0;
+  padding: 15px 16px 15px 20px;
+  position: fixed;
+  right: 10px;
+}
+
+.demo-controls div {
+  color: #fff !important;
+  font: 20px/24px "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.demo-controls .toggle {
+  background: #ffc;
+  border: 1px solid #996;
+  border-bottom: none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 15px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.demo-controls .toggle:hover {
+  background: #dda;
+}

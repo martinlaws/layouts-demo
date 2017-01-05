@@ -37,8 +37,7 @@ footer:before { content:"<footer>"; }
 /* layout 1 */
 .layout-1 .container {
   margin: auto;
-  max-width: 960px;
-  width: 100%;
+  width: 960px;
 }
 
 .layout-1 header { margin: 20px 0; }
@@ -136,9 +135,6 @@ footer:before { content:"<footer>"; }
 
 .layout-4 header {
   height: 100px;
-  left: 50px;
-  position: static;
-  top: 100px;
 }
 
 .layout-4 section {
